@@ -37,7 +37,7 @@
 - Cursos online (en inglés): coursera, datacamp, udemy, Stanford online, edx, codeacademy, Harvard online, etc.
 - [Python Tutorials freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (videos en inglés)
 - [Automate the Boring Stuff](https://automatetheboringstuff.com): varios libros y videos en inglés (Automate the Boring Stuff with Python, Cracking Codes with Python, Making Games with Python & Pygame, Invent Your Own Computer Games with Python).
-- [670+ Free Online Programming & Computer Science Course](https://www.freecodecamp.org/news/free-programming-courses-august-2019/).
+- [670+ Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-programming-courses-august-2019/).
 - [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
 - [Scipy Lectures](https://scipy-lectures.org/index.html)
 - [Scikit-learn](https://scikit-learn.org/)
