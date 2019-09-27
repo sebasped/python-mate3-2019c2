@@ -4,7 +4,7 @@
 
 ## Material de clases
 
-- [Diapos y ejercicios clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, asignaciones y variables.
+- [Diapos y ejercicios clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, variables y asignaciones.
 
 ---
 
