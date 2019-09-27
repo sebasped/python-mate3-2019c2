@@ -1,11 +1,8 @@
 # Python Mate 3 Econ. - 2019 cuat. 2 - UNGS
 
----
-
 ## Material de clases
 
-- [Clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, asignaciones y variables.
-
+- [Diapos clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, asignaciones y variables.
 
 ## Software
 ### Para la compu
