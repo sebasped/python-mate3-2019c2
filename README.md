@@ -28,8 +28,7 @@
 ### Material, cursos, tutoriales, bibliografía:
 - [Tutorial de Python para no programadores](http://jjc.freeshell.org/easytut/easytut_es/easytut.html)
 - [Aprendiendo Python](http://www.python.org.ar/wiki/AprendiendoPython)
-- [Aprenda a pensar como un programador con Python](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
-- El anterior en inglés: [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english2e/)
+- [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 - [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf)
 - Cursos online (en inglés): coursera, datacamp, udemy, Stanford online, edx, codeacademy, Harvard online, etc.
 - [Python Tutorials freeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (videos en inglés)
