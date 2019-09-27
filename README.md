@@ -2,9 +2,13 @@
 
 ---
 
-## Material de clases
+## Novedades
+- Vie 27-Sep 19.45 hs: *se agregaron ejercicios* al final de las diapo de la clase del Vie 27-Sep.
 
-- [Diapos y ejercicios clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, variables y asignaciones. *Hay ejercicios nuevos agregados al final de las diapo*.
+---
+
+## Material de clases
+- [Diapos y ejercicios clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, variables y asignaciones.
 
 ---
 
