@@ -3,7 +3,7 @@
 ---
 
 ## Novedades
-- Vie 27-Sep 19.45 hs: *se agregaron ejercicios* al final de las diapo de la clase del Vie 27-Sep.
+- Vie 27-Sep 19.45 hs: **se agregaron ejercicios** al final de las diapo de la clase del Vie 27-Sep.
 
 ---
 
