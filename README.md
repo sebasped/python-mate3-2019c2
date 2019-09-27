@@ -1,4 +1,4 @@
-# Python Mate 3 Encon. - 2019 cuat. 2 - UNGS
+# Python Mate 3 Econ. - 2019 cuat. 2 - UNGS
 
 
 ## Material de clases
