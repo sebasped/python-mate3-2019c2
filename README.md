@@ -12,7 +12,7 @@
 - [Python.org](https://www.python.org/downloads/)
 - [Python IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 ### Para usar online
-- [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb): intérprete online que se banca gráficos. [Instructivo de cómo usarlo.](https://github.com/sebasped/pythonungs/blob/master/python_online_con_graficos.pdf)
+- [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb): intérprete online que se banca gráficos. [Instructivo de cómo usarlo.](https://github.com/sebasped/python-mate3-2019c2/blob/master/python_online_con_graficos.pdf)
 
 
 ## Recursos Python
