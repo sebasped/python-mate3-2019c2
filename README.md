@@ -10,7 +10,7 @@
 
 ## Software
 ### Para la compu
-- [Anaconda](https://www.anaconda.com/distribution/#download-section)
+- [Anaconda](https://www.anaconda.com/distribution/#download-section): es el que usamos en el labo.
 - [Python.org](https://www.python.org/downloads/)
 - [Python IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
