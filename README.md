@@ -1,8 +1,12 @@
 # Python Mate 3 Econ. - 2019 cuat. 2 - UNGS
 
+---
+
 ## Material de clases
 
 - [Diapos clase Vie 27-Sep-2019](https://github.com/sebasped/python-mate3-2019c2/blob/master/pythonClase1_Vie27sep2019.pdf): introducción, expresiones, asignaciones y variables.
+
+---
 
 ## Software
 ### Para la compu
@@ -13,6 +17,7 @@
 ### Para usar online
 - [https://colab.research.google.com/notebooks/welcome.ipynb](https://colab.research.google.com/notebooks/welcome.ipynb): intérprete online que se banca gráficos. [Instructivo de cómo usarlo.](https://github.com/sebasped/python-mate3-2019c2/blob/master/python_online_con_graficos.pdf)
 
+---
 
 ## Recursos Python
 ### Comunidades:
