@@ -14,7 +14,7 @@
 
 ## Software
 ### Para la compu
-- [Anaconda](https://www.anaconda.com/distribution/#download-section): es el que usamos en el labo. Elegir la versión para Python 3, y elergir bien el sistema operativo (arriba de todo en la página).
+- [Anaconda](https://www.anaconda.com/distribution/#download-section): es el que usamos en el labo. Elegir la versión para Python 3, y elegir bien el sistema operativo (arriba de todo en la página).
 - [Python.org](https://www.python.org/downloads/)
 - [Python IDEs](https://wiki.python.org/moin/IntegratedDevelopmentEnvironments)
 
