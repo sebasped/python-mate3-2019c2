@@ -48,5 +48,7 @@
 - [NumFOCUS](https://numfocus.org/sponsored-projects)
 - [https://www.tutorialspoint.com/python3/index.htm](https://www.tutorialspoint.com/python3/index.htm)
 - [https://www.learnpython.org/](https://www.learnpython.org/)
+- [Learn X in Y minutes Python 3](https://learnxinyminutes.com/docs/python3/)
+- [Learn X in Y minutes Python 2](https://learnxinyminutes.com/docs/python/)
 
 
